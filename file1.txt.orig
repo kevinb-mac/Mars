@@ -4,10 +4,12 @@ PINK CHANGE
 GRAY CHANGE -- From Hub
 GREEN CHANG-935am
 BLACK COMMIT
+<<<<<<< HEAD
+YELLOW change by PC
+BLACK change by PC
+=======
 BLUE CHANGE
 WHITE
 BLACK
 GREY
-YELLOW change by PC
-BLACK change by PC
-PINK change from Mac
+>>>>>>> f/change-password
