@@ -1,7 +1,8 @@
 FIRST change
 <<<<<<< HEAD
-SECOND change
-=======
 First GitHubBranch change
 BLACK change
->>>>>>> NewGitHubBranch
+SECOND change
+=======
+INIT Mac change
+>>>>>>> NewMacBranch
