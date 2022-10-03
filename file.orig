@@ -1,0 +1,7 @@
+FIRST change
+<<<<<<< HEAD
+SECOND change
+=======
+First GitHubBranch change
+BLACK change
+>>>>>>> NewGitHubBranch
