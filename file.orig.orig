@@ -1,6 +1,8 @@
 FIRST change
-SECOND change
+<<<<<<< HEAD
 INIT Mac change
+=======
+>>>>>>> fed22ae84d683c8a55887128a7723e71d28728f6
 First GitHubBranch change
 BLACK change
 SECOND change
